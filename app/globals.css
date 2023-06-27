@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: black;
+  margin-top: -2rem;
+}
+.users-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.title {
+  color: #e68e3b;
+  padding: 2rem;
+}
+
+.user-card {
+  background-color: #88b0c7;
+  margin: 1.7rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: #464f41;
+}
